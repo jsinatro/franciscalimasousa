@@ -1,0 +1,555 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SOUR getmyancestors
+2 VERS 1.1.2
+2 NAME getmyancestors
+1 DATE 27 Sep 2026
+2 TIME 16:47:02
+1 SUBM @SUBM@
+0 @SUBM@ SUBM
+1 NAME João Sinatro
+1 LANG Portuguese
+0 @I1@ INDI
+1 NAME Francisca /Lima Sousa/
+1 NAME França //
+2 TYPE aka
+2 NPFX Dona
+1 SEX F
+1 BIRT
+2 DATE 26 de novembro de 1938
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 CHR
+2 DATE 19 de dezembro de 1938
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F5@
+1 FAMC @F1@
+1 _FSFTID GLJ7-8P2
+1 NOTE @N4@
+1 SOUR @S1@
+0 @I2@ INDI
+1 NAME José Vidal /de Lima/
+1 NAME Zuca /Vidal/
+2 TYPE aka
+1 NAME José /Vidal de Lima/ Primo
+2 TYPE aka
+1 SEX M
+1 CHR
+2 DATE 19 de agosto de 1883
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 BIRT
+2 DATE 10 de julho de 1883
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 DEAT
+2 DATE 2 de fevereiro de 1941
+2 PLAC Barbalha, Ceara, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F1@
+1 FAMS @F6@
+1 FAMC @F3@
+1 _FSFTID KLGC-ZS7
+1 NOTE @N7@
+1 SOUR @S9@
+2 PAGE Dados e data da fonte pesquisada correspondem
+1 SOUR @S7@
+1 SOUR @S10@
+2 PAGE Migrated from user-supplied source citation: urn:familysearch:source:2348520735
+1 SOUR @S4@
+1 SOUR @S5@
+1 SOUR @S2@
+1 SOUR @S8@
+2 PAGE Dados e data da fonte correspondem
+1 SOUR @S3@
+1 SOUR @S6@
+0 @I3@ INDI
+1 NAME Raimunda Maria /Duarte/
+1 NAME Raimunda /Duarte de Lima/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 9 de junho de 1906
+2 PLAC Lavras da Mangabeira, Ceará, Brasil
+3 MAP
+4 LATI -6.7471
+4 LONG -38.9647
+1 DEAT
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 CHR
+2 DATE 5 de agosto de 1906
+2 PLAC Lavras da Mangabeira, Ceará, Brasil
+3 MAP
+4 LATI -6.7471
+4 LONG -38.9647
+1 FAMS @F1@
+1 FAMC @F2@
+1 _FSFTID GLJ7-SF4
+1 NOTE @N4@
+1 SOUR @S13@
+1 SOUR @S11@
+1 SOUR @S5@
+1 SOUR @S12@
+1 SOUR @S14@
+0 @I4@ INDI
+1 NAME Maria Magdalena /de Moraes/
+1 SEX F
+1 BIRT
+2 PLAC Lavras da Mangabeira, Ceará, Brasil
+3 MAP
+4 LATI -6.7471
+4 LONG -38.9647
+1 DEAT Y
+1 FAMS @F2@
+1 _FSFTID GT3P-WT7
+1 NOTE @N5@
+1 SOUR @S15@
+1 SOUR @S17@
+1 SOUR @S5@
+1 SOUR @S16@
+1 SOUR @S18@
+0 @I5@ INDI
+1 NAME Francisco José /de Lima/
+1 NAME Francisco /Vidal de Lima/
+2 TYPE aka
+1 SEX M
+1 BURI
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 BIRT
+2 DATE aproximadamente 1850
+2 PLAC Ceará, Brasil
+3 MAP
+4 LATI -4.5402
+4 LONG -39.5825
+1 DEAT
+2 DATE 27 de maio de 1887
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F3@
+1 _FSFTID GTT3-BH4
+1 NOTE @N6@
+1 NOTE @N10@
+1 SOUR @S24@
+1 SOUR @S26@
+1 SOUR @S19@
+1 SOUR @S25@
+1 SOUR @S21@
+1 SOUR @S22@
+1 SOUR @S23@
+1 SOUR @S20@
+0 @I6@ INDI
+1 NAME Mariana /Vieira Cavalcante/
+1 NAME Mariana /Vidal de Lima/
+2 TYPE aka
+1 NAME Mariana /Vieira de Lima/
+2 TYPE aka
+1 SEX F
+1 DEAT
+2 DATE após 1918
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 BIRT
+2 DATE 1853
+2 PLAC Ceará, Brasil
+3 MAP
+4 LATI -4.5402
+4 LONG -39.5825
+1 RESI
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F3@
+1 FAMC @F4@
+1 _FSFTID P6YD-R58
+1 NOTE @N4@
+1 SOUR @S32@
+1 SOUR @S34@
+1 SOUR @S36@
+1 SOUR @S33@
+1 SOUR @S31@
+1 SOUR @S35@
+1 SOUR @S30@
+0 @I7@ INDI
+1 NAME Joaquim /Duarte Pinheiro/
+1 SEX M
+1 DEAT Y
+1 BIRT
+2 PLAC Crato, Ceará, Brasil
+3 MAP
+4 LATI -7.2296
+4 LONG -39.4122
+1 FAMS @F2@
+1 _FSFTID GT3P-2M9
+1 NOTE @N5@
+1 SOUR @S29@
+1 SOUR @S5@
+1 SOUR @S27@
+1 SOUR @S16@
+1 SOUR @S28@
+0 @I8@ INDI
+1 NAME  /Vieira Cavalcante/
+1 SEX M
+1 DEAT Y
+1 FAMS @F4@
+1 _FSFTID PXPL-G8Z
+1 NOTE @N4@
+0 @I9@ INDI
+1 NAME Thereza /Maria de Jesus/
+1 SEX F
+1 BIRT
+2 DATE aproximadamente 1867
+2 PLAC Barbalha, Ceara, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 DEAT
+2 DATE 1998
+2 PLAC Barbalha, Ceara, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F6@
+1 _FSFTID KLGC-Z3C
+1 NOTE @N9@
+1 SOUR @S38@
+2 PAGE Dados e data da fonte pesquisada correspondem
+1 SOUR @S7@
+1 SOUR @S37@
+2 PAGE Dados e data da fonte correspondem
+1 SOUR @S39@
+1 SOUR @S40@
+2 PAGE Migrated from user-supplied source citation: urn:familysearch:source:2348520735
+1 SOUR @S6@
+0 @I10@ INDI
+1 NAME Luiz Victorino /de Sousa/
+1 NAME Velho //
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 19 de agosto de 1932
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 FAMS @F5@
+1 _FSFTID GLJ7-QWH
+1 NOTE @N4@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 MARR
+2 DATE 11 de novembro de 1935
+2 PLAC Barbalha, Ceará, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 _FSFTID 99WX-8WV
+1 NOTE @N4@
+1 SOUR @S5@
+0 @F2@ FAM
+1 HUSB @I7@
+1 WIFE @I4@
+1 CHIL @I3@
+1 _FSFTID 937P-KQ3
+1 NOTE @N4@
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I2@
+1 _FSFTID 9Z7F-YVG
+1 NOTE @N4@
+0 @F4@ FAM
+1 HUSB @I8@
+1 CHIL @I6@
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I1@
+1 _FSFTID 99WX-859
+1 NOTE @N4@
+0 @F6@ FAM
+1 HUSB @I2@
+1 WIFE @I9@
+1 MARR
+2 DATE 7 de março de 1905
+2 PLAC Barbalha, Ceara, Brasil
+3 MAP
+4 LATI -7.2984
+4 LONG -39.3021
+1 _FSFTID MZXQ-TYR
+1 NOTE @N8@
+1 SOUR @S6@
+0 @S1@ SOUR 
+1 TITL Francisca Vidal de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NR-TC3N : Sun Jun 22 00:42:24 UTC 2025), Entry for Francisca Vidal de Lima and José Vidal de Lima, 19 de dezembro de 193
+2 CONC 8.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NR-TC3N
+1 REFN QF72-8LX
+0 @S2@ SOUR 
+1 TITL José Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-8CSD : Wed Apr 23 20:09:21 UTC 2025), Entry for José Vidal de Lima and Francisco Vidal de Lima, 2 de fevereiro de 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-8CSD
+1 REFN WXQJ-72C
+0 @S3@ SOUR 
+1 TITL José Vidal de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-GPGV : Sat Jun 21 04:30:32 UTC 2025), Entry for Maria de Britto and José Francisco de Britto, 27 de setembro de 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-GPGP
+1 REFN 78YB-JGV
+0 @S4@ SOUR 
+1 TITL José Branco, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FX4-WZQR : Sat May 30 14:43:54 UTC 2026), Entry for José Branco and Francisco José de Lima, 19 de agosto de 1880.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FX4-WZQR
+1 REFN 79JH-P85
+0 @S5@ SOUR 
+1 TITL Casamento José Vidal de Lima e Raimunda Maria Duarte
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:9392-9TQP-BR?cc=2175764&wc=MHN3-RT5%3A369523901%2C369523902%2C370672101 : 22 May 2014), Barbalha > Sant
+2 CONC o Antônio > Matrimônios 1928, Jul-1935, Dez > image 212 of 217; parroquias Católicas, Ceará (Catholic Church parishes, Ceará).
+1 PUBL https://familysearch.org/ark:/61903/3:1:9392-9TQP-BR
+1 REFN 79Q8-LFX
+0 @S6@ SOUR 
+1 TITL Casamento José Vidal de Lima e Theresa Maria de Jesus
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:9392-9TQJ-MF?cc=2175764&wc=MHN3-B3X%3A369523901%2C369523902%2C370583301 : 22 May 2014), Barbalha > Sant
+2 CONC o Antônio > Matrimônios 1903, Out-1906, Nov > image 70 of 157; parroquias Católicas, Ceará (Catholic Church parishes, Ceará).
+1 PUBL https://familysearch.org/ark:/61903/3:1:9392-9TQJ-MF
+1 REFN Q15X-THB
+0 @S7@ SOUR 
+1 TITL Casamento Pegro Geraldo de Sousa e Maria Linda de Jesus
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:9392-9TQT-CF?cc=2175764&wc=MHN3-RT5%3A369523901%2C369523902%2C370672101 : 22 May 2014), Barbalha > Sant
+2 CONC o Antônio > Matrimônios 1928, Jul-1935, Dez > image 180 of 217; parroquias Católicas, Ceará (Catholic Church parishes, Ceará).
+1 PUBL https://familysearch.org/ark:/61903/3:1:9392-9TQT-CF
+1 REFN Q163-M2N
+0 @S8@ SOUR 
+1 TITL José Vidal de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6DL5-MSS3 : Sat May 30 13:11:12 UTC 2026), Entry for Maria Linda de Jesus and José Vidal de Lima, 2 de fevereiro de 1910.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6DL5-MSSQ
+1 REFN QJVH-XT4
+0 @S9@ SOUR 
+1 TITL José Vidal de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6DLP-BCX3 : Fri May 29 16:07:47 UTC 2026), Entry for Maria and José Vidal de Lima, 12 de maio de 1907.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6DLP-BCXQ
+1 REFN QJV4-2F2
+0 @S10@ SOUR 
+1 TITL Legacy NFS Source: José Vidal de Lima - Government record: male
+1 NOTE @N1@
+1 REFN MS7D-1XP
+0 @S11@ SOUR 
+1 TITL Raymunda Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-8CSD : Wed Apr 23 20:09:21 UTC 2025), Entry for José Vidal de Lima and Francisco Vidal de Lima, 2 de fevereiro de 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-8CSF
+1 REFN WXQJ-7CY
+0 @S12@ SOUR 
+1 TITL Raymunda Duarte Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-GPGV : Sat Jun 21 04:30:32 UTC 2025), Entry for Maria de Britto and José Francisco de Britto, 27 de setembro de 1930.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-GPGR
+1 REFN 78YB-JBY
+0 @S13@ SOUR 
+1 TITL Raymunda Pinheiro, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-DN6N : Wed Jan 22 05:48:20 UTC 2025), Entry for Raymunda Pinheiro and Joaquim Duarte Pinheiro, 5 de agosto de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-DN6N
+1 REFN 79QZ-6WW
+0 @S14@ SOUR 
+1 TITL Raimunda Duarte de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NR-TC3N : Sun Jun 22 00:42:24 UTC 2025), Entry for Francisca Vidal de Lima and José Vidal de Lima, 19 de dezembro de 193
+2 CONC 8.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NR-TC3V
+1 REFN QF72-8FV
+0 @S15@ SOUR 
+1 TITL Maria Magdalena de Moraes, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-HM5P : Thu Oct 09 07:26:57 UTC 2025), Entry for Antonio and Joaquim Duarte Penha, 28 de outubro de 1900.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-HM5R
+1 REFN W9KR-X6D
+0 @S16@ SOUR 
+1 TITL Brasil, Ceará, Registros da Igreja Católica, 1725-1971; https://familysearch.org/ark:/61903/3:1:9392-9T9V-2X?cc=2175764&wc=MHN3-BWR%3A369522701%2C369522702%2C370666901
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:9392-9T9V-2X?cc=2175764&wc=MHN3-BWR%3A369522701%2C369522702%2C370666901 : 22 May 2014), Lavras da Mangabe
+2 CONC ira > Lavras da Mangabeira > Óbitos 1902, Ago-1909, Abr > image 124 of 157; parroquias Católicas, Ceará (Catholic Church parishes, Ceará).
+1 PUBL https://familysearch.org/ark:/61903/3:1:9392-9T9V-2X?wc=MHN3-BWR%3A369522701%2C369522702%2C370666901&cc=2175764&i=123
+1 NOTE @N2@
+1 REFN 77TF-RL2
+0 @S17@ SOUR 
+1 TITL de Moraes, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6F8T-L738 : Wed Jan 07 17:51:09 UTC 2026), Entry for <Unknown> and Duarte Pinheiro, 21 de agosto de 1904.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6F8T-L736
+1 REFN 79Q8-HKK
+0 @S18@ SOUR 
+1 TITL Maria Magdalena de Moraes, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-DN6N : Wed Jan 22 05:48:20 UTC 2025), Entry for Raymunda Pinheiro and Joaquim Duarte Pinheiro, 5 de agosto de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-DN6V
+1 REFN 79QZ-D1X
+0 @S19@ SOUR 
+1 TITL Francisco Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-8CSD : Wed Apr 23 20:09:21 UTC 2025), Entry for José Vidal de Lima and Francisco Vidal de Lima, 2 de fevereiro de 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-8CS6
+1 REFN WXQJ-4NY
+0 @S20@ SOUR 
+1 TITL Francisco José de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FXW-1KQ5 : Sat May 30 13:14:28 UTC 2026), Entry for Anna M. F. L. and Francisco José de Lima, 20 de janeiro de 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FXW-1KQL
+1 REFN W6ZQ-CD9
+0 @S21@ SOUR 
+1 TITL Francisco Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-TXX3 : Fri Mar 08 23:58:59 UTC 2024), Entry for Vidal de Lima and Francisco Vidal de Lima, 16 de agosto de 1938.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-TXXQ
+1 REFN W71L-1V9
+0 @S22@ SOUR 
+1 TITL Francisco Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9Y4-ZT7D : Mon Dec 23 04:00:39 UTC 2024), Entry for Sebastiao Vidal de Lima and Francisco Vidal de Lima, 16 de janeiro de 1918.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9Y4-ZT76
+1 REFN 751V-2T7
+0 @S23@ SOUR 
+1 TITL Francisco Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-9YQH : Sat Mar 09 11:07:11 UTC 2024), Entry for Antonia Vidal de Sousa and Francisco Vidal de Lima, 11 de setembro de 1957.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-9YQC
+1 REFN 75B9-CRD
+0 @S24@ SOUR 
+1 TITL Benedisto José de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FX4-H15R : Sat May 30 12:25:28 UTC 2026), Entry for Sebastião Espinto and Benedisto José de Lima, 25 de março de 1885.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FX4-H15T
+1 REFN 79JH-Y8T
+0 @S25@ SOUR 
+1 TITL Francisco José de Lima, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FX4-WZQR : Sat May 30 14:43:54 UTC 2026), Entry for José Branco and Francisco José de Lima, 19 de agosto de 1880.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FX4-WZQT
+1 REFN 79JH-G5C
+0 @S26@ SOUR 
+1 TITL Casamento Francisco Vidal de Lima e Maria Vieira Cavalcante
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019," database with images, <i>FamilySearch</i> (https://familysearch.org/ark:/61903/3:1:9392-9TQ1-NP?cc=2175764&wc=MHN3-T3J%3A369523901%2C369523902%2C370626301 : 22 May 2014), Barbalha > Sant
+2 CONC o Antônio > Matrimônios 1910, Jul-1913, Nov > image 98 of 211; parroquias Católicas, Ceará (Catholic Church parishes, Ceará).
+1 PUBL https://familysearch.org/ark:/61903/3:1:9392-9TQ1-NP
+1 REFN 79J4-JDJ
+0 @S27@ SOUR 
+1 TITL Joaquim Duarte Penha, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-HM5P : Thu Oct 09 07:26:57 UTC 2025), Entry for Antonio and Joaquim Duarte Penha, 28 de outubro de 1900.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-HM55
+1 REFN W9KR-FFD
+0 @S28@ SOUR 
+1 TITL Duarte Pinheiro, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6F8T-L738 : Wed Jan 07 17:51:09 UTC 2026), Entry for <Unknown> and Duarte Pinheiro, 21 de agosto de 1904.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6F8T-L73D
+1 REFN 79Q8-HGM
+0 @S29@ SOUR 
+1 TITL Joaquim Duarte Pinheiro, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:66NG-DN6N : Wed Jan 22 05:48:20 UTC 2025), Entry for Raymunda Pinheiro and Joaquim Duarte Pinheiro, 5 de agosto de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:66NG-DN6J
+1 REFN 79QZ-69C
+0 @S30@ SOUR 
+1 TITL Mariana Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-9YQH : Sat Mar 09 11:07:11 UTC 2024), Entry for Antonia Vidal de Sousa and Francisco Vidal de Lima, 11 de setembro de 1957.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-9YQZ
+1 REFN WXQ5-725
+0 @S31@ SOUR 
+1 TITL Mariana Vidal de Lima, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-8CSD : Wed Apr 23 20:09:21 UTC 2025), Entry for José Vidal de Lima and Francisco Vidal de Lima, 2 de fevereiro de 1941.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-8CSX
+1 REFN WXQJ-4LW
+0 @S32@ SOUR 
+1 TITL Marianna Viera Cavalcante, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FX4-WZQR : Sat May 30 14:43:54 UTC 2026), Entry for José Branco and Francisco José de Lima, 19 de agosto de 1880.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FX4-WZQY
+1 REFN W6ZQ-XDT
+0 @S33@ SOUR 
+1 TITL Marianna Vieira Cavalcante, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FX4-H15R : Sat May 30 12:25:28 UTC 2026), Entry for Sebastião Espinto and Benedisto José de Lima, 25 de março de 1885.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FX4-H15Y
+1 REFN W6ZQ-DZT
+0 @S34@ SOUR 
+1 TITL Mariana Vieira Coralombi, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:X9Y4-ZT7D : Mon Dec 23 04:00:39 UTC 2024), Entry for Sebastiao Vidal de Lima and Francisco Vidal de Lima, 16 de janeiro de 1918.
+1 PUBL https://familysearch.org/ark:/61903/1:1:X9Y4-ZT7X
+1 REFN W6ZQ-Z6P
+0 @S35@ SOUR 
+1 TITL Marianna Viura Cavalcante, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6FXW-1KQ5 : Sat May 30 13:14:28 UTC 2026), Entry for Anna M. F. L. and Francisco José de Lima, 20 de janeiro de 1870.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6FXW-1KQG
+1 REFN W6ZQ-CC4
+0 @S36@ SOUR 
+1 TITL Mariana Vieira Cavalcante, "Brazil, Ceará, Civil Registration, 1823-2017"
+1 AUTH "Brazil, Ceará, Civil Registration, 1823-2017", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:65YY-TXX3 : Fri Mar 08 23:58:59 UTC 2024), Entry for Vidal de Lima and Francisco Vidal de Lima, 16 de agosto de 1938.
+1 PUBL https://familysearch.org/ark:/61903/1:1:65YY-TXX7
+1 REFN W6ZQ-WQN
+0 @S37@ SOUR 
+1 TITL Thereza Maria de Jesus, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6DL5-MSS3 : Sat May 30 13:11:12 UTC 2026), Entry for Maria Linda de Jesus and José Vidal de Lima, 2 de fevereiro de 1910.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6DL5-MSS7
+1 REFN QJVH-X14
+0 @S38@ SOUR 
+1 TITL Thereza Maria de Jesus, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6DLP-BCX3 : Fri May 29 16:07:47 UTC 2026), Entry for Maria and José Vidal de Lima, 12 de maio de 1907.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6DLP-BCX7
+1 REFN QJV4-2KR
+0 @S39@ SOUR 
+1 TITL Thereza Maria de Jesus, “Brasil, Ceará, Registros da Igreja Católica, 1725-2019”
+1 AUTH "Brasil, Ceará, Registros da Igreja Católica, 1725-2019", <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:6DLP-2LP3 : Sat May 30 12:59:08 UTC 2026), Entry for Julio and Diocesana, 8 de abril de 1906.
+1 PUBL https://familysearch.org/ark:/61903/1:1:6DLP-2LP7
+1 REFN QN3P-F8Z
+0 @S40@ SOUR 
+1 TITL Legacy NFS Source: Thereza Maria de Jesus - Government record: birth-name: Thereza Maria de Jesus
+1 NOTE @N3@
+1 REFN MS7D-1P3
+0 @N1@ NOTE Government record: male  
+1 CONT Government record: birth-name: José Vidal de Lima  
+1 CONT Government record: death: before 1998; Barbalha, Ceara, Brazil  
+1 CONT Government record: birth: about 1888; Barbalha, Ceara, Brazil
+0 @N2@ NOTE Assento de óbito de Antônio  Pinheiro (1907-1908).
+0 @N3@ NOTE Government record: birth-name: Thereza Maria de Jesus  
+1 CONT Government record: female  
+1 CONT Government record: birth: about 1889; Barbalha, Ceara, Brazil  
+1 CONT Government record: death: before 1998; Barbalha, Ceara, Brazil
+0 @N4@ NOTE === Colaboradores ===
+1 CONT Sinatro
+0 @N5@ NOTE === Colaboradores ===
+1 CONT David Gonçalves da Silva Filho
+1 CONT SINEILTONSILVA1
+1 CONT Sinatro
+0 @N6@ NOTE === Por favor, não faça alterações em as devidas fontes  Caso tenho alguma informação, entrar em contato com João Sinatro. Por mensagens no site ou pelo whatsapp 11 996495465. https://jsinatro.github.io/endogamiabarbalhense/ ===
+1 CONT Por favor, não faça alterações em as devidas fontes
+1 CONT 
+1 CONT Caso tenho alguma informação, entrar em contato com João Sinatro. Por mensagens no site ou pelo whatsapp 11 996495465.
+1 CONT https://jsinatro.github.io/endogamiabarbalhense/
+0 @N7@ NOTE === Colaboradores ===
+1 CONT Anisia Neri dos Anjos
+1 CONT FamilySearch
+1 CONT JAIME ROBERTO SILVA
+1 CONT Renato52195
+1 CONT SINEILTONSILVA1
+1 CONT Sinatro
+1 CONT rejanefeitosanery1
+0 @N8@ NOTE === Colaboradores ===
+1 CONT FamilySearch
+1 CONT Sinatro
+0 @N9@ NOTE === Colaboradores ===
+1 CONT Anisia Neri dos Anjos
+1 CONT FamilySearch
+1 CONT JAIME ROBERTO SILVA
+1 CONT SINEILTONSILVA1
+1 CONT Sinatro
+0 @N10@ NOTE === Colaboradores ===
+1 CONT Dionisio Pedro
+1 CONT Filomena558
+1 CONT Renato52195
+1 CONT Sinatro
+0 TRLR
